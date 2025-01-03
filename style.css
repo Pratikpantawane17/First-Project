@@ -1,0 +1,9 @@
+.first-project {
+    width: 300px;
+    height: 400px;
+    color: wheat;
+    background: red;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-radius: 5px;
+}
